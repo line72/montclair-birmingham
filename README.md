@@ -1,5 +1,5 @@
-# Montclair
+# Birmingham Transit
 
-This is a simple project to show a live view of all the buses in the Birmigham, AL Transit Systems.
+Real Time Bus Tracking for Birmingham, AL
 
-https://montclair.line72.net/
+https://montclair.line72.net
