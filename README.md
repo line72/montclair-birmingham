@@ -1,5 +1,5 @@
-# Birmingham Transit
+# Go Birmingham
 
-Real Time Bus Tracking for Birmingham, AL
+Real Time Tracking of the Buses for Birmingham, AL
 
-https://montclair.line72.net
+https://birmingham.gotransitapp.com
